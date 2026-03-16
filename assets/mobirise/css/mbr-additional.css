@@ -1639,54 +1639,6 @@ a {
 .cid-vddPhBMyEW .content-head {
   max-width: 800px;
 }
-.cid-vdGsFj2Tu9 {
-  padding-top: 0rem;
-  padding-bottom: 6rem;
-  background-color: #edefeb;
-}
-.cid-vdGsFj2Tu9 .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-vdGsFj2Tu9 .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-vdGsFj2Tu9 .row {
-  justify-content: center;
-}
-.cid-vdGsFj2Tu9 .item {
-  margin-bottom: 2rem;
-}
-@media (max-width: 767px) {
-  .cid-vdGsFj2Tu9 .item {
-    margin-bottom: 1rem;
-  }
-}
-.cid-vdGsFj2Tu9 .item .item-wrapper {
-  display: flex;
-  flex-direction: column;
-  height: 100%;
-  background: #ffffff;
-  padding: 2.25rem;
-}
-@media (min-width: 992px) and (max-width: 1200px) {
-  .cid-vdGsFj2Tu9 .item .item-wrapper {
-    padding: 2rem 1.5rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-vdGsFj2Tu9 .item .item-wrapper {
-    padding: 2rem 1.5rem;
-  }
-}
-.cid-vdGsFj2Tu9 .content-head {
-  max-width: 800px;
-}
 .cid-vdh8Wtnyc4 {
   padding-top: 6rem;
   padding-bottom: 6rem;
